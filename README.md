@@ -16,7 +16,7 @@ Estructura del repositorio
 Instalación y uso
 1.	Clonar el repositorio:
 Bash
-git clone https://github.com/tu-usuario/telecom-x-churn.git
+git clone https://github.com/hectorcaraucan/telecom-x-churn.git
 2.	Entorno: Se recomienda ejecutar el archivo .ipynb en Google Colab.
 3.	Carga de Datos: Es necesario subir los archivos TelecomX_Data.json y TelecomX_diccionario.md a la sesión de Colab antes de ejecutar las celdas de código.
 Hallazgos Principales (Insights)
